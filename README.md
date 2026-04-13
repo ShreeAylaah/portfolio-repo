@@ -100,7 +100,7 @@ I am a developer passionate about:
 ## 📬 Contact
 
 * 📧 Email: shreemanikandan4@gmail.com
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sridevi-manikandan-69828b21a/)
+* 💼 LinkedIn: [https://linkedin.com/in/sridevi-manikandan-69828b21a](https://www.linkedin.com/in/sridevi-manikandan-69828b21a/)
 * 🐙 GitHub: https://github.com/ShreeAylaah
 
 ---
